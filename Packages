@@ -1,0 +1,14 @@
+Package: com.iosmods.
+Name: iosmods bf
+Version: 1.73.0
+Architecture: iphone-os-arm
+Description: Bullet Force Hack!
+Maintainer: Mobean
+Author: Mobean
+Section: Tweaks
+Depends: 
+Filename: debs/iosmods bf.deb
+Size: 251502
+MD5sum: 74DA6C108F6F926F4F6317E4F6659154
+SHA1: F7AC0E20A082B1B30A4058ADF92719EA334145CA
+SHA256: E3B7F78A2827688B1A269ECC6C73CA53F3835CEDCB1C56A509CA6BA3FA64B8FF
