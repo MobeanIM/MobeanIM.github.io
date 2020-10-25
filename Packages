@@ -1,12 +1,12 @@
-Package: com.iosmods.bulletforce
-Name: iosmods bf
+Package: iosmods
+Name: Bullet Force Mod Menu
 Version: 1.73.0
-Architecture: iphone-os-arm
-Description: Bullet Force Hack!
+Architecture: iphoneos-arm
+Description: Bullet Force Mod Menu by Mobean!
 Maintainer: Mobean
 Author: Mobean
 Section: Tweaks
-Depends: 
+Depends: mobilesubstrate
 Filename: debs/iosmods bf.deb
 Size: 251502
 MD5sum: 74DA6C108F6F926F4F6317E4F6659154
